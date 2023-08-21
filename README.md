@@ -1,3 +1,5 @@
+![2sjEjN6VxOz9_1584_396](https://github.com/samalihapugahapitiya/samalihapugahapitiya/assets/99489672/ad42ec8c-2704-41f9-bffc-a3224b3faa09)
+
 <h1 align="center">Hi 👋, I'm Samali Hapugahapitiya</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
 
