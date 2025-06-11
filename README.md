@@ -2,7 +2,7 @@
 ![2sjEjN6VxOz9_1584_396](https://github.com/samalihapugahapitiya/samalihapugahapitiya/assets/99489672/e1c9aa24-e2a6-4d58-b22b-57b8ec772551)
 
 <h1 align="center">Hi 👋, I'm Samali Hapugahapitiya</h1>
-<h3 align="center">Undergraduate at SLIIT</h3>
+<h3 align="center">A passionate Software Test Engineer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **VITALHUB INNOVATIONS LAB**
 
