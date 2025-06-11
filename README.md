@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Samali Hapugahapitiya</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
 
-- 🔭 I’m currently working on **MEARN STACK**
+- 🔭 I’m currently working on **VITALHUB INNOVATIONS LAB**
 
 - 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
